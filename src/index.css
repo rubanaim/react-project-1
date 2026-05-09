@@ -1,0 +1,11 @@
+@import url(@fontsource/tajawal);
+@import "tailwindcss";
+:root{
+  --main-color:#c2c22d ;
+  --secondary-color:#3D464D;
+}
+body{
+  font-family: "Tajawal", sans-serif;
+  background-color: #EEEEEE;
+}
+  
