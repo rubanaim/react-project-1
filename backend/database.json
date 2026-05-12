@@ -1,0 +1,206 @@
+
+{
+  "productCategories": ["Living Room", "Bedroom", "Dining & Office"],
+  "products": [
+    {
+      "id": 1,
+      "title": "Modern Sofa",
+      "price": 799,
+      "discount": 10,
+      "stock": 15,
+      "category": "Living Room",
+      "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg",
+      "description": "Comfortable modern sofa perfect for living rooms."
+    },
+    {
+      "id": 2,
+      "title": "Coffee Table",
+      "price": 149,
+      "discount": 12,
+      "stock": 12,
+      "category": "Living Room",
+      "image": "https://cdn.phototourl.com/free/2026-04-01-04cb9410-d984-4850-933b-f25fb7c2dcd6.jpg",
+      "description": "Modern coffee table for your living area."
+    },
+    {
+      "id": 3,
+      "title": "Accent Chair",
+      "price": 229,
+      "discount": 8,
+      "stock": 11,
+      "category": "Living Room",
+      "image": "https://cdn.phototourl.com/free/2026-04-01-403ef4e8-b29c-403e-b088-3262a5d29179.jpg",
+      "description": "Modern accent chair for stylish interiors."
+    },
+    {
+      "id": 4,
+      "title": "Lounge Sofa",
+      "price": 999,
+      "discount": 10,
+      "stock": 6,
+      "category": "Living Room",
+      "image": "https://cdn.phototourl.com/free/2026-04-01-f633209a-c695-4d8d-8758-340a5afd1de5.jpg",
+      "description": "Large comfortable lounge sofa for big families."
+    },
+    {
+      "id": 5,
+      "title": "Futon Sofa",
+      "price": 249,
+      "discount": 10,
+      "stock": 10,
+      "category": "Living Room",
+      "image": "hhttps://cdn.phototourl.com/free/2026-04-01-143746f5-891a-459a-b795-9a18103ef1d6.webp",
+      "description": "Convertible futon sofa for guests."
+    },
+    {
+      "id": 6,
+      "title": "Queen Bed Frame",
+      "price": 899,
+      "discount": 8,
+      "stock": 5,
+      "category": "Bedroom",
+      "image": "https://cdn.phototourl.com/free/2026-04-01-339c0a5f-dcb9-48ef-8417-06c1a279d6bc.jpg",
+      "description": "Stylish and sturdy queen bed frame for bedrooms."
+    },
+    {
+      "id": 7,
+      "title": "Nightstand",
+      "price": 129,
+      "discount": 10,
+      "stock": 14,
+      "category": "Bedroom",
+      "image": "https://cdn.phototourl.com/free/2026-04-01-82f10956-d9bd-4618-b95b-d0b3cfc457d4.webp",
+      "description": "Nightstand with drawer for bedroom essentials."
+    },
+    {
+      "id": 8,
+      "title": "Wardrobe",
+      "price": 899,
+      "discount": 12,
+      "stock": 4,
+      "category": "Bedroom",
+      "image": "https://cdn.phototourl.com/free/2026-04-01-6dbd6daa-bdb0-4bfc-9e87-8ff3d759a385.webp",
+      "description": "Large wardrobe with sliding doors."
+    },
+    {
+      "id": 9,
+      "title": "Wooden Dining Table",
+      "price": 499,
+      "discount": 5,
+      "stock": 8,
+      "category": "Dining & Office",
+      "image": "https://cdn.phototourl.com/free/2026-04-01-ad497eee-b485-4428-ae6d-debe288c4035.jpg",
+      "description": "Elegant wooden table for dining and family meals."
+    },
+    {
+      "id": 10,
+      "title": "Office Chair",
+      "price": 199,
+      "discount": 15,
+      "stock": 20,
+      "category": "Dining & Office",
+      "image": "https://image2url.com/r2/default/images/1775069676895-514647bf-6887-41c0-8152-fc939342c037.webp",
+      "description": "Ergonomic office chair with adjustable height."
+    },
+    {
+      "id": 11,
+      "title": "Bookshelf",
+      "price": 250,
+      "discount": 5,
+      "stock": 10,
+      "category": "Dining & Office",
+      "image": "https://image2url.com/r2/default/images/1775069937161-6919b0a1-35e0-4053-901b-33f75efc7061.jpg",
+      "description": "Tall wooden bookshelf for organizing your books."
+    },
+    {
+      "id": 12,
+      "title": "Recliner Chair",
+      "price": 399,
+      "discount": 7,
+      "stock": 7,
+      "category": "Dining & Office",
+      "image": "https://images.pexels.com/photos/276671/pexels-photo-276671.jpeg",
+      "description": "Comfortable recliner chair with soft cushioning."
+    },
+    {
+      "id": 13,
+      "title": "Kitchen Stool",
+      "price": 89,
+      "discount": 10,
+      "stock": 22,
+      "category": "Dining & Office",
+      "image": "https://images.pexels.com/photos/279588/pexels-photo-279588.jpeg",
+      "description": "Simple kitchen stool for breakfast bars."
+    },
+    {
+      "id": 14,
+      "title": "TV Stand",
+      "price": 299,
+      "discount": 15,
+      "stock": 9,
+      "category": "Dining & Office",
+      "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg",
+      "description": "Stylish TV stand for your entertainment area."
+    },
+    {
+      "id": 15,
+      "title": "Bar Cart",
+      "price": 169,
+      "discount": 5,
+      "stock": 18,
+      "category": "Dining & Office",
+      "image": "https://images.pexels.com/photos/279720/pexels-photo-279720.jpeg",
+      "description": "Stylish bar cart for drinks and accessories."
+    },
+    {
+      "id": 16,
+      "title": "Patio Chair",
+      "price": 149,
+      "discount": 10,
+      "stock": 20,
+      "category": "Dining & Office",
+      "image": "https://images.pexels.com/photos/279585/pexels-photo-279585.jpeg",
+      "description": "Outdoor patio chair perfect for relaxing."
+    },
+    {
+      "id": 17,
+      "title": "Dining Bench",
+      "price": 199,
+      "discount": 7,
+      "stock": 16,
+      "category": "Dining & Office",
+      "image": "https://images.pexels.com/photos/1866143/pexels-photo-1866143.jpeg",
+      "description": "Wooden dining bench for family gatherings."
+    },
+    {
+      "id": 18,
+      "title": "Side Table",
+      "price": 79,
+      "discount": 8,
+      "stock": 30,
+      "category": "Dining & Office",
+      "image": "https://images.pexels.com/photos/2797192/pexels-photo-2797192.jpeg",
+      "description": "Compact side table for extra surface space."
+    },
+    {
+      "id": 19,
+      "title": "Bean Bag Chair",
+      "price": 99,
+      "discount": 5,
+      "stock": 15,
+      "category": "Dining & Office",
+      "image": "https://images.pexels.com/photos/885730/pexels-photo-885730.jpeg",
+      "description": "Casual bean bag chair for cool interiors."
+    },
+    {
+      "id": 20,
+      "title": "Bookshelf Ladder",
+      "price": 179,
+      "discount": 9,
+      "stock": 17,
+      "category": "Dining & Office",
+      "image": "https://images.pexels.com/photos/1866141/pexels-photo-1866141.jpeg",
+      "description": "Stylish ladder bookshelf for modern homes."
+    }
+  ]
+}
